@@ -191,7 +191,7 @@ To access the value directory is bad manner.
 =head3 Polymorphism
 
 Third concept Object-Oriented programing is polymorphism.
-Polymorphism is devieded into two concepts,
+Polymorphism is divided into two concepts,
 overloading and overriding.
 
 Perl programer don't have to care overloading.
